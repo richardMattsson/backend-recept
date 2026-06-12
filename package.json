@@ -5,9 +5,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardMattsson/backend-recept.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardMattsson/backend-recept/issues"
+  },
+  "homepage": "https://github.com/richardMattsson/backend-recept#readme",
   "description": "",
   "dependencies": {
     "express": "^5.2.1"
